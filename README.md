@@ -16,6 +16,7 @@ Program pontozás (10 pont/feladatrész)
   -	Tisztakód
 
 IKT pontozás (10 pont/feladatrész)
+ -	A tervezés során készítsen közösen egy google dokumentumot, amelyben megtervezik az osztályokat, azok adattagjait és leírják, ki melyik osztályt fejleszti!
  -	Közös projektben saját osztályt fejleszt, a fejlesztés branchekben történik
  -	A fejlesztés során commitol 
  -	A commitok osztály egységenként történnek
@@ -24,7 +25,6 @@ IKT pontozás (10 pont/feladatrész)
  -	 A Pull reqeusteket megjegyzéssel látja el
  -	 A Pull reqeusteket projektben nyilvántartja. Erről készít egy ábrát a dokumentumba!
  -	 Class diagraot készit a saját osztályáról
- -	 A diagramot elhelyezi egy google dokumentumba a drivba
+ -	 A diagramot elhelyezi a google dokumentumba a drivba
  -	 A dokumentum tartalmazza a saját brancheit és commitjait kigyűjtve a githubról
  -	 Wiki szöveget készit a projektben, amely tartalmazza az osztály leírását és egy linket a dokumentumra
- -	 A tervezés során készítsen közösen egy google dokumentumot, amelyben megtervezik az osztályokat, azok adattagjait és leírják ki melyik osztályt fejleszti!
